@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+	Sahil Soni -- Developer 
+
+# THANKS
+
+    Sachin Dhadwal -- StackRoute
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
